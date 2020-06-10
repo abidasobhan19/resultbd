@@ -1,0 +1,2 @@
+rootProject.name='Resultbd'
+include ':app'
